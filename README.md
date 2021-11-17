@@ -1,6 +1,6 @@
 # this repository was my first project in react
 
-This project was bootstrapped with [Create React App] I used this comand to make a folder where i created a to do list.
+This project was bootstrapped with [Create React App] I used this comand to make a folder where i created a to do list for an orcestra project (junior company where I currently develop).
 
 ## Available Scripts
 
