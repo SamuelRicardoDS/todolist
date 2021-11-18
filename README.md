@@ -1,4 +1,4 @@
-# this repository was my first project in react
+# This repository was my first project in React
 
 This project was bootstrapped with [Create React App] I used this comand to make a folder where i created a to do list for an orcestra project (junior company where I currently develop).
 
